@@ -1,2 +1,2 @@
-# InformationExtraction
-SJTU CS 438 Course，fall 2019. Project on Chinese Information Extraction.
+# ChineseNRE
+> Named Entity Recognition on Chinese Text Data
